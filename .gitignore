@@ -6,6 +6,10 @@
 *.user
 *.sln.docstates
 
+#Added by me
+
+Nawtes/Saved
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
